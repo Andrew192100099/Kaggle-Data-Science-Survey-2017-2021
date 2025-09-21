@@ -7,13 +7,13 @@ ________________
 ## 🔍 Business Questions Addressed
 
 **1.** ***Who are the people in data science?***
-<div badding-left= 20>
-  **●** *Age distribution*
 
-  **●** *Gender balance*
+ - **●** *Age distribution*
 
-  **●** *Country representation*
-</div>
+ - **●** *Gender balance*
+
+ - **●** *Country representation*
+
 **❔** ***What is their professional background?***
 
   **●** *Education levels*
