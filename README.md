@@ -5,11 +5,11 @@ Decoding the Global Data Community ,This comprehensive annual survey captures th
 ________________
 
 ## 🔍 Business Questions Addressed
+ 
+**❔** ***Who are the people in data science?***
 
 <div style="padding-left: 20px;">
  
-**1.** ***Who are the people in data science?***
-
   **●** *Age distribution*
 
   **●** *Gender balance*
