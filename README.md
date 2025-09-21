@@ -38,13 +38,11 @@ ________________
 </div>
 
 **❔** ***How do demographics and skills vary by region?***
-<div style="padding-left: 20px;">
  
-  **🗺️** *Country vs. experience distribution*
+ &nbsp **🗺️** *Country vs. experience distribution*
 
-  **🚩** *Geographic concentration of professionals*
+ &nbsp **🚩** *Geographic concentration of professionals*
   
-  </div>
 __________________________
 
 ## 📋 Analysis Steps
