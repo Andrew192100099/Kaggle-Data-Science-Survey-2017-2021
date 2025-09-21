@@ -58,17 +58,17 @@ __________________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Converted survey responses into readable categories* ***(e.g., coding years → beginner/intermediate/advanced)***
 <br>
 
-**➢** Demographic Analysis
+**➢** **Demographic Analysis**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** *Age, gender, country breakdowns with bar and pie charts*
 <br>
 
-**➢** Professional Insights
+**➢** **Professional Insights**
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** *Education levels, experience ranges, and top roles*
 <br>
 
-**➢** Technical Landscape
+**➢** **Technical Landscape**
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Programming languages* ***(Python, R, SQL)***
 
@@ -77,7 +77,7 @@ __________________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Platforms for development and deployment*
 <br>
 
-**➢** Comparative Views
+**➢** **Comparative Views**
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Country vs. experience* ***(stacked bar)***
 
@@ -85,7 +85,7 @@ __________________________
   
   ___________________
 
-## 📊 Key Insights
+## **📊 Key Insights**
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Age →** *Majority of respondents are early-career* ***(25–34 years)***
 
