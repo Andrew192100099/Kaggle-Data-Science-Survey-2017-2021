@@ -52,24 +52,20 @@ __________________________
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Handled missing values and inconsistent formatting
 <br>
-<br>
 
 **➢** **Categorical Mapping & Encoding**
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Converted survey responses into readable categories (e.g., coding years → beginner/intermediate/advanced)
-<br>
 <br>
 
 **➢** Demographic Analysis
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** Age, gender, country breakdowns with bar and pie charts
 <br>
-<br>
 
 **➢** Professional Insights
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** Education levels, experience ranges, and top roles
-<br>
 <br>
 
 **➢** Technical Landscape
@@ -79,7 +75,6 @@ __________________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** ML frameworks (TensorFlow, PyTorch)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Platforms for development and deployment
-<br>
 <br>
 
 **➢** Comparative Views
