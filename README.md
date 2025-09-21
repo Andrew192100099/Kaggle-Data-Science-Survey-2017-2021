@@ -122,12 +122,9 @@ _____________________
 <div align="center">
  <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.bar%20-%20Interactive%20Bar%20Chart%20-%20Age%20distribution.png" alt="Titanic Analysis" width="1500" height="900">
  <br>
- <br>
  <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.bar%20-%20Interactive%20Bar%20Chart%20-%20Coding%20experience.png" alt="Titanic Analysis" width="1500" height="1600">
  <br>
- <br>
  <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.pie%20-%20Interactive%20Pie%20-%20Chart%20Gender%20split.png" alt="Titanic Analysis" width="1500" height="1000">
- <br>
  <br>
 <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.imshow-Interactive%20heatmap%20-%20Country%20vs%20Experience.png" alt="Titanic Analysis" width="1500" height="858">
 
