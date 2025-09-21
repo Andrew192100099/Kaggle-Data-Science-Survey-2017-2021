@@ -56,7 +56,7 @@ __________________________
 
 **➢** Professional Insights
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vv **✅** Education levels, experience ranges, and top roles
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** Education levels, experience ranges, and top roles
 
 **➢** Technical Landscape
  
