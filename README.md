@@ -99,7 +99,7 @@ _______________
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 **Education Levels →** *Horizontal bar chart*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;; 📊 **Experience Distribution →** *Count plot*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 **Experience Distribution →** *Count plot*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 **Country vs. Experience →** *Stacked bar chart*
 
