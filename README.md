@@ -128,10 +128,10 @@ ___________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** **Data:** *Kaggle Survey* ***(2017–2021)***
 _____________________
 
-➢ This comprehensive annual survey captures the pulse of the data science and machine learning community across 5 years, 
+## ➢ This comprehensive annual survey captures the pulse of the data science and machine learning community across 5 years, 
 featuring responses from 100,000+ professionals across 60+ countries. 
 
-The survey provides an unprecedented look into the tools, technologies, education, and career paths that define the modern data landscape.
+*The survey provides an unprecedented look into the tools, technologies, education, and career paths that define the modern data landscape.*
 
 <div align="center">
  <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.bar%20-%20Interactive%20Bar%20Chart%20-%20Coding%20experience.png" alt="Titanic Analysis" width="1500" height="1600">
