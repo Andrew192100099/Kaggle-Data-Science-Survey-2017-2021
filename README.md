@@ -123,9 +123,9 @@ _____________________
  
  <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/Insight%201%20-%20Age%20distribution%20(px.bar).png" alt="Age distribution" width="1500" height="900">
  <br>
- <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/Insight%202%20-%20Gender%20split%20(px.pie).png.png" alt="Gender split" width="1500" height="900">
+ <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/Insight%202%20-%20Gender%20split%20(px.pie).png" alt="Gender split" width="1500" height="900">
  <br>
- <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/Insight%203%20-%20Education%20level%20(px.bar).png.png" alt="Education level" width="1500" height="1600">
+ <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/Insight%203%20-%20Education%20level%20(px.bar).png" alt="Education level" width="1500" height="1600">
  <br>
  <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/Insight%204-%20Coding%20experience%20(px.bar).png" alt="Coding experience" width="1500" height="1000">
  <br>
