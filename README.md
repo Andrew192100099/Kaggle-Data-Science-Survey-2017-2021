@@ -10,11 +10,11 @@ ________________
  
 **1.** ***Who are the people in data science?***
 
- - **●** *Age distribution*
+  **●** *Age distribution*
 
- - **●** *Gender balance*
+  **●** *Gender balance*
 
- - **●** *Country representation*
+  **●** *Country representation*
 </div>
 
 **❔** ***What is their professional background?***
