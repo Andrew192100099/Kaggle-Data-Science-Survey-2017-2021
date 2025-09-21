@@ -14,7 +14,8 @@ ________________
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Country representation*
 <br>
-<hr>
+<br>
+
 **❔** ***What is their professional background?***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Education levels*
