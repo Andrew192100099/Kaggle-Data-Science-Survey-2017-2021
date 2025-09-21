@@ -14,6 +14,7 @@ ________________
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Country representation*
 
+
 **❔** ***What is their professional background?***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Education levels*
@@ -22,6 +23,7 @@ ________________
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Common job roles*
 
+
 **❔** ***Which tools and technologies dominate?***
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **●** *Programming languages*
@@ -29,6 +31,7 @@ ________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **●** *ML frameworks*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **●** *Platforms and environments*
+
 
 **❔** ***How do demographics and skills vary by region?***
  
