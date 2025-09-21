@@ -13,8 +13,8 @@ ________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **●** *Gender balance*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Country representation*
-
-
+<br>
+<hr>
 **❔** ***What is their professional background?***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Education levels*
