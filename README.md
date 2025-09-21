@@ -1,7 +1,7 @@
-# 📊 Kaggle Data Science Survey (2017–2021)
+# **📊 Kaggle Data Science Survey (2017–2021)**
 *Tagline: From raw survey data → to actionable insights about the global data science community.*
 
-Decoding the Global Data Community ,This comprehensive annual survey captures the pulse of the data science and machine learning community across 5 years, featuring responses from 100,000+ professionals across 60+ countries. The survey provides an unprecedented look into the tools, education, and career paths that define the modern data landscape.
+Decoding the Global Data Community , This comprehensive annual survey captures the pulse of the data science and machine learning community across 5 years, featuring responses from 100,000+ professionals across 60+ countries. The survey provides an unprecedented look into the tools, education, and career paths that define the modern data landscape.
 ________________
 
 ## 🔍 Business Questions Addressed
@@ -102,7 +102,7 @@ __________________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Frameworks →** *TensorFlow and PyTorch lead ML development*
 _______________
 
-## 🖼️ Visualizations
+## **🖼️ Visualizations**
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 **Age Distribution →** *Bar chart*
 
@@ -117,7 +117,7 @@ _______________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 **Programming Tools →** *Ranking plots*
 ___________________
 
-## 🛠️ Technical Stack
+## **🛠️ Technical Stack**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** **Languages:** *Python 3.8+*
 
@@ -128,7 +128,7 @@ ___________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** **Data:** *Kaggle Survey* ***(2017–2021)***
 _____________________
 
-## ➢ This comprehensive annual survey captures the pulse of the data science and machine learning community across 5 years, featuring responses from 100,000+ professionals across 60+ countries. 
+### ➢ This comprehensive annual survey captures the pulse of the data science and machine learning community across 5 years, featuring responses from 100,000+ professionals across 60+ countries. 
 
 *The survey provides an unprecedented look into the tools, technologies, education, and career paths that define the modern data landscape.*
 
