@@ -48,40 +48,40 @@ __________________________
 
 **➢** **Data Cleaning**
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Removed duplicates and invalid entries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Removed duplicates and invalid entries*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Handled missing values and inconsistent formatting
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Handled missing values and inconsistent formatting*
 <br>
 
 **➢** **Categorical Mapping & Encoding**
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Converted survey responses into readable categories (e.g., coding years → beginner/intermediate/advanced)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Converted survey responses into readable categories* ***(e.g., coding years → beginner/intermediate/advanced)***
 <br>
 
 **➢** Demographic Analysis
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** Age, gender, country breakdowns with bar and pie charts
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** *Age, gender, country breakdowns with bar and pie charts*
 <br>
 
 **➢** Professional Insights
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** Education levels, experience ranges, and top roles
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** *Education levels, experience ranges, and top roles*
 <br>
 
 **➢** Technical Landscape
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Programming languages (Python, R, SQL)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Programming languages* ***(Python, R, SQL)***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** ML frameworks (TensorFlow, PyTorch)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *ML frameworks* ***(TensorFlow, PyTorch)***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Platforms for development and deployment
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Platforms for development and deployment*
 <br>
 
 **➢** Comparative Views
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Country vs. experience (stacked bar)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Country vs. experience* ***(stacked bar)***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Role vs. education and tools
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** *Role vs. education and tools*
   
   ___________________
 
@@ -128,8 +128,7 @@ ___________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** **Data:** *Kaggle Survey* ***(2017–2021)***
 _____________________
 
-## ➢ This comprehensive annual survey captures the pulse of the data science and machine learning community across 5 years, 
-featuring responses from 100,000+ professionals across 60+ countries. 
+## ➢ This comprehensive annual survey captures the pulse of the data science and machine learning community across 5 years, featuring responses from 100,000+ professionals across 60+ countries. 
 
 *The survey provides an unprecedented look into the tools, technologies, education, and career paths that define the modern data landscape.*
 
