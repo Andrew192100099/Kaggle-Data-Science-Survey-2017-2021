@@ -39,9 +39,9 @@ ________________
 
 **❔** ***How do demographics and skills vary by region?***
  
- &nbsp **🗺️** *Country vs. experience distribution*
+ &nbsp**🗺️** *Country vs. experience distribution*
 
- &nbsp **🚩** *Geographic concentration of professionals*
+ &nbsp**🚩** *Geographic concentration of professionals*
   
 __________________________
 
