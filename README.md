@@ -19,152 +19,113 @@ ________________
  
 **❔** ***Who are the people in data science?***
 
-<div style="padding-right: 40px;">
- 
-  **●** *Age distribution*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Age distribution*
 
-  **●** *Gender balance*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **●** *Gender balance*
 
-  **●** *Country representation*
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Country representation*
 
 **❔** ***What is their professional background?***
-<div style="padding-left: 20px;">
- 
-  **●** *Education levels*
 
-  **●** *Coding experience*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Education levels*
 
-  **●** *Common job roles*
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **●** *Coding experience*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** *Common job roles*
 
 **❔** ***Which tools and technologies dominate?***
-<div style="padding-left: 20px;">
  
-  **●** *Programming languages*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **●** *Programming languages*
 
-  **●** *ML frameworks*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **●** *ML frameworks*
 
-  **●** *Platforms and environments*
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **●** *Platforms and environments*
 
 **❔** ***How do demographics and skills vary by region?***
  
- &nbsp **🗺️** *Country vs. experience distribution*
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🗺️** *Country vs. experience distribution*
 
- &nbsp **🚩** *Geographic concentration of professionals*
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🚩** *Geographic concentration of professionals*
   
 __________________________
 
 ## 📋 Analysis Steps
 
 **➢** **Data Cleaning**
-<div style="padding-left: 20px;">
  
-  **✅** Removed duplicates and invalid entries
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Removed duplicates and invalid entries
 
-  **✅** Handled missing values and inconsistent formatting
-  
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Handled missing values and inconsistent formatting
 
 **➢** **Categorical Mapping & Encoding**
-<div style="padding-left: 20px;">
  
-  **✅** Converted survey responses into readable categories (e.g., coding years → beginner/intermediate/advanced)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Converted survey responses into readable categories (e.g., coding years → beginner/intermediate/advanced)
   
-</div>
 **➢** Demographic Analysis
 
-<div style="padding-left: 20px;">
- 
-  **✅** Age, gender, country breakdowns with bar and pie charts
-  
-</div>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** Age, gender, country breakdowns with bar and pie charts
 
 **➢** Professional Insights
-
-<div style="padding-left: 20px;">
  
-  **✅** Education levels, experience ranges, and top roles
-  
-</div>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **✅** Education levels, experience ranges, and top roles
 
 **➢** Technical Landscape
-
-<div style="padding-left: 20px;">
  
-  **✅** Programming languages (Python, R, SQL)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Programming languages (Python, R, SQL)
 
-  **✅** ML frameworks (TensorFlow, PyTorch)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** ML frameworks (TensorFlow, PyTorch)
 
-  **✅** Platforms for development and deployment
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Platforms for development and deployment
   
-</div>
-
 **➢** Comparative Views
-
-<div style="padding-left: 20px;">
  
-  **✅** Country vs. experience (stacked bar)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Country vs. experience (stacked bar)
 
-  **✅** Role vs. education and tools
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **✅** Role vs. education and tools
   
-  </div>
   ___________________
 
 ## 📊 Key Insights
-
-<div style="padding-left: 20px;">
  
-**Age →** *Majority of respondents are early-career* ***(25–34 years)***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Age →** *Majority of respondents are early-career* ***(25–34 years)***
 
-**Gender →** *~3:1 male-to-female ratio*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Gender →** *~3:1 male-to-female ratio*
 
-**Countries →** *India and USA dominate, followed by Brazil, Japan, and Russia*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Countries →** *India and USA dominate, followed by Brazil, Japan, and Russia*
 
-**Education →** *Master’s degree is most common among professionals*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Education →** *Master’s degree is most common among professionals*
 
-**Experience →** *Peak at 3–5 years* ***(intermediate level)***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Experience →** *Peak at 3–5 years* ***(intermediate level)***
 
-**Tools →** *Python is the dominant programming language, followed by* **SQL** *and* **R**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tools →** *Python is the dominant programming language, followed by* **SQL** *and* **R**
 
-**Frameworks →** *TensorFlow and PyTorch lead ML development*
-
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Frameworks →** *TensorFlow and PyTorch lead ML development*
 _______________
 
 ## 🖼️ Visualizations
-
-<div style="padding-left: 20px;">
  
-  📊 **Age Distribution →** *Bar chart*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 **Age Distribution →** *Bar chart*
 
-  📊 **Gender Split →** *Percentage bar chart*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 **Gender Split →** *Percentage bar chart*
 
-  📊 **Education Levels →** *Horizontal bar chart*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 **Education Levels →** *Horizontal bar chart*
 
-  📊 **Experience Distribution →** *Count plot*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 **Experience Distribution →** *Count plot*
 
-  📊 **Country vs. Experience →** *Stacked bar chart*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 **Country vs. Experience →** *Stacked bar chart*
 
-  📊 **Programming Tools →** *Ranking plots*
-  
-  </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📊 **Programming Tools →** *Ranking plots*
 ___________________
 
 ## 🛠️ Technical Stack
 
-<div style="padding-left: 20px;">
- 
-**●** **Languages:** *Python 3.8+*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** **Languages:** *Python 3.8+*
 
-**●** **Libraries:** *Pandas, NumPy, Matplotlib, Seaborn, Plotly*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** **Libraries:** *Pandas, NumPy, Matplotlib, Seaborn, Plotly*
 
-**●** **Workflow:** *Jupyter Notebook for analysis and visualization*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** **Workflow:** *Jupyter Notebook for analysis and visualization*
 
-**●** **Data:** *Kaggle Survey* ***(2017–2021)***
-
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **●** **Data:** *Kaggle Survey* ***(2017–2021)***
 _____________________
 
 ➢ This comprehensive annual survey captures the pulse of the data science and machine learning community across 5 years, 
