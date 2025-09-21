@@ -120,9 +120,12 @@ _____________________
 *The survey provides an unprecedented look into the tools, technologies, education, and career paths that define the modern data landscape.*
 
 <div align="center">
- <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.bar%20-%20Interactive%20Bar%20Chart%20-%20Age%20distribution.png" alt="Titanic Analysis" width="828" height="900">
+ <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.bar%20-%20Interactive%20Bar%20Chart%20-%20Age%20distribution.png" alt="Titanic Analysis" width="1500" height="900">
+ <br>
  <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.bar%20-%20Interactive%20Bar%20Chart%20-%20Coding%20experience.png" alt="Titanic Analysis" width="1500" height="1600">
- <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.pie%20-%20Interactive%20Pie%20-%20Chart%20Gender%20split.png" alt="Titanic Analysis" width="828" height="1000">
+ <br>
+ <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.pie%20-%20Interactive%20Pie%20-%20Chart%20Gender%20split.png" alt="Titanic Analysis" width="1500" height="1000">
+ <br>
 <img src="https://github.com/Andrew192100099/Kaggle-Data-Science-Survey-2017-2021/blob/main/Images/px.imshow-Interactive%20heatmap%20-%20Country%20vs%20Experience.png" alt="Titanic Analysis" width="828" height="858">
 
 </div>
