@@ -8,7 +8,7 @@ ________________
  
 **❔** ***Who are the people in data science?***
 
-<div style="padding-left: 20px;">
+<div style="padding-left: 40px;">
  
   **●** *Age distribution*
 
